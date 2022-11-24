@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "point_kantorpos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.270049488000041, -7.883773358999974, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.330674313000088, -7.886831966999978, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.373362626000073, -7.897990361999973, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.250506352000059, -7.93761246899993, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.346442148000051, -7.948878934999925, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.296609286000034, -7.949016825999934, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.264812845000051, -7.967819309999982, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.319091274000073, -7.972652823999965, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.416023303000088, -7.819996905999972, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.473880964000045, -7.836969683999939, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.407941881000056, -7.868596747999959, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.345335247000037, -7.827596358999926, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "FCODE": null, "JNKPOS": 999, "REMARK": "Kantor Pos Lainnya", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 110.356540542000062, -7.855785915999945, 0.0 ] } }
+]
+}
